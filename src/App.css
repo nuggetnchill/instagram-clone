@@ -1,1 +1,4 @@
-@import-normalize;
+* {
+    font: 'Neue Helvetica', sans-serif;
+    box-sizing: border-box;
+}
